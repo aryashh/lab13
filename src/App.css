@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  height: 100vh;
+}
+
+.main-content {
+  flex: 1;
+  background-color: #f5f7fb;
+  padding: 1rem;
+}
+
+a {
+  text-decoration: none;
+}
+@import './variables.css';
